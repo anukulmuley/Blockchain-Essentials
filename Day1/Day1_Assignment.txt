@@ -1,0 +1,37 @@
+Day 1 Assignment
+
+1. What is your understanding of Blockchain?
+Ans:A blockchain is a growing list of records called blocks, that are linked using cryptography.
+Each block contains a cryptographic hash of the previous block,a timestamp, and transaction data .
+Blockchain is a decentralized technology to maintain the information and data which are immutable in nature i.e. once the entries in the blockchain are made they can’t be tampered or modified. 
+In simple words it is a way to store data digitally. By using blockchain we can avoid data duplication, data hacking, etc. Blockchain provides transparency for a data.
+
+
+2. What is the core problem Block chain trying to solve?
+Ans:
+1. Security
+2. Decentralization
+3. Authentication
+
+
+3. What are the few features Block chain will give you?
+Ans:
+1. Immutable
+2. Tamper- proof
+3. Verifiable
+4. Unchangeable
+
+
+4. What all things does a block contain?
+Ans:
+1. Block number
+2. Transaction records
+3. Previous block key
+4. Mining key
+
+
+5. How is the verifiability of Block chain has been attained?
+Ans: Verifiability is achieved by using digital signature or checking hash code of the previous block. 
+In verifiability we have to check the hash of the previous code.
+If the hash of block 1 and pervious hash of block 2 is same the we can say that no data is changed.
+© 2020 GitHub, Inc.
